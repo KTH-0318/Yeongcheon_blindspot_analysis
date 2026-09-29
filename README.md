@@ -4,7 +4,11 @@
 **복합 고립지수**를 설계하고, Min-Max 정규화 후 분위(25·50·75%) 기준 4등급화 → 히트맵·Folium 지도로 시각화해
 복합 취약지역과 행정동별 정책을 제안했습니다.
 
-2025 제4회 영천시 공공데이터 활용 경진대회(데이터 시각화 분야) 출품 · 4인 팀 · 프로젝트 상세 → [Notion 포트폴리오](노션 링크)
+2025 제4회 영천시 공공데이터 활용 경진대회(데이터 시각화 분야) 출품 · 4인 팀 · 
+
+**프로젝트 상세 → [Notion 포트폴리오](https://zany-meeting-aba.notion.site/22083f9aaedb82fdaed5018b6422a2c1)**
+
+**발표 자료 · 참가신청서 → [Google Drive](https://drive.google.com/drive/folders/1Zd8lzksQCMXH8WWuF9c10n92SQMDLQL4)**
 
 ## 핵심 포인트
 - 지표: 고립 위험(노인인구·전출입) · 복지 · 교통·응급 · 생활편의
